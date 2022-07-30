@@ -1,5 +1,5 @@
 // Date: Dec 8, 2021
-// Teramind.cpp : Coding Exercise as per assignment
+// screendiff.cpp : Coding Exercise as per assignment
 // Start time: 17:30
 // End time: 18:15
 
